@@ -9,18 +9,22 @@
 **Different view controllers and their responsbilites**
 
 ***Introduction View Controller***
+
 	Can lead to two user interface: Game and Background
 
 ***Game Playing View Controller***
+	
 	A checkerboard (like in the calculator project)
 	A information label show who’s turn it is (Ex: X turn, O turn)
 
 ***Rules View Controller***
+	
 	Segmented Control to display different sections
 		a. Rule
 		b. Graphical Illustration
 		c. History
 
 ***Result View Controller***
+	
 	Three states: O wins, X wins, Draw
 	A button to restart the game
