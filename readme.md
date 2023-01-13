@@ -6,7 +6,7 @@
 
 4. Incorporated segmented controls that allow users to view background information, graphical illustration, and history of tic tac toe in the app with each button press
 
-** Different view controllers and their responsbilites **
+**Different view controllers and their responsbilites**
 * Introduction View Controller *
 	Can lead to two user interface: Game and Background
 
